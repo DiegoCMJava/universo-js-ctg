@@ -8,7 +8,8 @@ Creado por Copilot
 ### **Lunes – Fundamentos + Git**
 - **1h**: Fundamentos de programación (algoritmos, estructuras de datos) → *W3Schools*  
 - **1h**: Git y GitHub (flujo de ramas, commits, pull requests) → *Commitea*  
-- **1h**: Patrones de diseño básicos → *Refactoring Guru*  
+- **1h**: Patrones de diseño básicos → *Refactoring Guru*
+- **1h**: Expressjs → *Documentación oficial*    
 - **Opcional (30min)**: Repaso de leyes de UX → *lawsofux*
 
 ---
