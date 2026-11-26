@@ -33,13 +33,14 @@ Creado por Copilot
 ### **Jueves – Bases de datos + UX**
 - **1h**: SQL básico (consultas, joins) → *W3Schools*  
 - **1h**: UX aplicado a interfaces → *lawsofux*  
-- **1h**: PWA (conceptos, manifest, service workers) → *web.dev*  
+- **1h**: PWA (conceptos, manifest, service workers) → *web.dev*
+- **1h**: React fundamentos (componentes, props, estado) → *W3Schools*   
 - **Opcional (30min)**: Ejemplo práctico: convertir un proyecto sencillo en PWA
 
 ---
 
 ### **Viernes – Ecosistema moderno**
-- **1h**: React fundamentos (componentes, props, estado) → *W3Schools*  
+ - **1h**: PhaserJS 
 - **1h**: Node.js (módulos, servidor básico) → *W3Schools*  
 - **1h**: TailwindCSS (utilidades, responsive design) → *tailwindcss.com*  
 - **Opcional (30min)**: Integrar React + Tailwind en un proyecto pequeño
